@@ -1,0 +1,45 @@
+site_name: Chengguang OEM & Private Label Battery Manufacturing
+site_description: Build your own automotive battery brand — OEM, ODM, private label manufacturing by Chengguang Power Tech
+site_url: https://oem.chengguangenergy.com/
+
+theme:
+  name: material
+  palette:
+    primary: deep orange
+    accent: amber
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - OEM Services:
+      - automotive-battery-oem/index.md
+      - private-label-batteries/index.md
+      - battery-odm/index.md
+      - custom-battery/index.md
+  - Customization:
+      - battery-brand/index.md
+      - battery-packaging/index.md
+      - battery-label-design/index.md
+      - battery-case-design/index.md
+      - battery-terminal-customization/index.md
+      - battery-specification/index.md
+  - OEM Process:
+      - oem-process/index.md
+      - sample-production/index.md
+      - quality-control/index.md
+  - FAQ:
+      - oem-faq/index.md
