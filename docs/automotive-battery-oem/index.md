@@ -4,20 +4,35 @@ title: "Automotive Battery OEM Manufacturing"
 
 # Automotive Battery OEM Manufacturing
 
-OEM (Original Equipment Manufacturing) means Chengguang manufactures batteries to your specifications under your brand name. You sell the product — we handle the manufacturing.
+OEM (Original Equipment Manufacturing) means Chengguang manufactures batteries to your specifications under your brand name. You sell the product. We handle the manufacturing — from grid casting to container loading.
 
-## The OEM Funnel
+**Chengguang is an OEM-first factory.** We do not sell under our own brand to end consumers. Every battery we produce either carries a customer's brand or ships as a factory-labeled product for distributors who on-sell under their own identity.
 
-**Your Input:** Market requirement, target specification, brand identity
-**Chengguang Responsibility:** Match specification to production capability, propose battery models, confirm feasibility
-**Deliverable:** OEM proposal with model recommendation and ballpark pricing
-**Quality Checkpoint:** Specification alignment with your market standards (JIS/DIN/BCI)
+## What OEM Includes
 
-## Key Considerations
+| Service | Description | Typical MOQ |
+|---------|-------------|:---:|
+| **Label-only OEM** | Your brand on standard Chengguang models | 200-500/model |
+| **Label + Packaging** | Custom cartons, pallet wrapping, manuals | 500-1,000/model |
+| **Full Custom** | Case color, terminals, specs, packaging | 2,000-5,000/model |
 
-- **MOQ**: 200-500 units/model for label-only; 2,000+ for full custom
-- **Lead Time**: 3-4 weeks for samples; 4-8 weeks for mass production
-- **Standards**: JIS, DIN, BCI — we manufacture to all major standards
-- **Certification**: IATF 16949, ISO 9001, ISO 45001, CE
+## The OEM Difference
 
-[Request OEM Quote](https://chengguangenergy.com/contact/) | [Browse Models](https://data.chengguangenergy.com/battery-models/)
+Buying factory-labeled batteries vs. OEM with your brand:
+- :material-check: **Brand equity** — customers remember your name, not the factory's
+- :material-check: **Market control** — you set pricing, distribution, and warranty terms
+- :material-check: **Customer loyalty** — repeat purchases come to you
+- :material-check: **Competitive moat** — competitors cannot source "your" battery
+
+## Getting Started
+
+1. Tell us your target market, vehicle types, and standard (JIS/DIN/BCI)
+2. We propose models and specifications
+3. You approve samples (3-4 weeks)
+4. We manufacture, inspect, and ship
+
+[Start OEM Inquiry](https://chengguangenergy.com/contact/){ .md-button }
+
+---
+
+:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

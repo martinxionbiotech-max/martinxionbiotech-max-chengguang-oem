@@ -4,19 +4,29 @@ title: "Battery Terminal Customization"
 
 # Battery Terminal Customization
 
-Standard or custom terminal types. JIS T1 (small/large), DIN standard post, SAE post, side terminal. Custom terminal position available.
+Terminals are the critical interface between the battery and the vehicle. Wrong terminal type = battery won't connect. Chengguang offers full terminal customization to match any regional standard.
 
-## How It Works
+## Terminal Types Available
 
-1. **You tell us** your market requirement and brand vision
-2. **We propose** a specification and manufacturing plan
-3. **You approve** the sample
-4. **We manufacture** under your brand
+| Type | Standard | Post Diameter (+ / -) | Used In |
+|------|----------|:---:|---------|
+| **T1 Small** | JIS | O14.7 / O13.0 mm | Passenger cars (Asia, Africa, ME) |
+| **T1 Large** | JIS | O19.5 / O17.9 mm | Heavy duty trucks, buses |
+| **DIN Standard** | DIN/EN | O19.5 / O17.9 mm | European vehicles |
+| **SAE Post** | BCI/SAE | O17.5 / O15.9 mm | North American vehicles |
+| **Side Terminal** | BCI/SAE | 3/8"-16 thread | GM vehicles |
+| **Custom** | — | Per specification | Unique applications |
 
-## Get Started
+## Polarity Options
 
-[Request OEM Consultation](https://chengguangenergy.com/contact/)
+| Configuration | Layout | Used In |
+|:---:|---|---------|
+| **[0]** | Left (-), Right (+) | Standard JIS/DIN |
+| **[1]** | Left (+), Right (-) | Some European models |
+| **Custom** | Per specification | Unique vehicle requirements |
+
+[Request Terminal Specs](https://chengguangenergy.com/contact/){ .md-button }
 
 ---
 
-*IATF 16949 certified | 18 production lines | 40,000 batteries/day | 70+ export countries*
+:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

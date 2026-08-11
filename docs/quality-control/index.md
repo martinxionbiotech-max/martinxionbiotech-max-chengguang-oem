@@ -1,34 +1,38 @@
 ---
-title: "OEM Quality Control"
+title: "Quality Control — Full System"
 ---
 
-# OEM Quality Control
+# Quality Control — Full System
 
-## IATF 16949 Certified
+Chengguang's quality control system is built on IATF 16949:2016 — the international quality management standard specific to automotive manufacturing. It is not a paper certification. It is audited annually by an independent certification body and embedded in every production step.
 
-Chengguang Power Tech is IATF 16949:2016 certified — the international quality management standard specific to automotive manufacturing.
+## In-Process Quality Gates
 
-### In-Process QC
+| Production Stage | Inspection | Frequency | Standard |
+|-----------------|------------|:---:|----------|
+| Grid casting | Alloy composition, grid weight, dimensional | Per melt lot | IATF 16949 |
+| Paste mixing | Density, penetration | Per batch | Internal |
+| Plate pasting | Thickness, surface quality | Continuous (inline) | Internal |
+| Curing | Free lead, crystal structure, strength | Per chamber load | Internal |
+| Assembly | Plate alignment, weld quality | 100% visual | IATF 16949 |
+| Formation | Cell voltage, specific gravity | 100% | IEC 60095-1 |
+| Final test | CCA, OCV, leak, visual, weight | **100%** | SAE J537 |
 
-| Stage | Check |
-|-------|-------|
-| Grid casting | Alloy composition, grid weight, dimensional check |
-| Paste mixing | Paste density, penetration test |
-| Plate pasting | Thickness uniformity, surface quality |
-| Curing | Free lead content, crystal structure |
-| Assembly | Plate alignment, weld quality |
-| Formation | Cell voltage, specific gravity |
-| Final | CCA, capacity, visual, leak test |
-
-### Pre-Shipment QC
+## Pre-Shipment Documentation
 
 Every shipment includes:
-- Certificate of Analysis (CCA, capacity, voltage)
-- MSDS (Material Safety Data Sheet)
-- DG declaration (UN 2794 / Class 8)
-- Batch traceability report
-- Packing list with pallet details
+- **Certificate of Analysis** — CCA, capacity, voltage per production batch
+- **MSDS** — UN 2794 / Class 8 dangerous goods
+- **Batch traceability report** — raw material lots to finished product
+- **Packing list** — pallet-level detail
+- **Certificate of Origin** — for import duty purposes
 
-### Third-Party Inspection
+## Third-Party Inspection
 
-Available on request: SGS, Bureau Veritas, or your nominated inspection agency.
+Available on request: **SGS, Bureau Veritas, Intertek**, or your nominated inspection agency. Third-party inspectors are welcome at our factory for pre-shipment verification.
+
+[View Certifications](https://chengguangenergy.com/quality-certifications/){ .md-button }
+
+---
+
+:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

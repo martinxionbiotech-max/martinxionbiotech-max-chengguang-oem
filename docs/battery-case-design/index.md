@@ -4,19 +4,28 @@ title: "Battery Case Customization"
 
 # Battery Case Customization
 
-Custom case colors, handle design, lid design, and case molding for unique brand identity.
+The battery case is the most visible branded component. Chengguang offers case color customization to make your brand instantly recognizable on store shelves and in engine bays.
 
-## How It Works
+## Case Customization Options
 
-1. **You tell us** your market requirement and brand vision
-2. **We propose** a specification and manufacturing plan
-3. **You approve** the sample
-4. **We manufacture** under your brand
+| Element | Standard | Custom Options |
+|---------|----------|----------------|
+| **Case color** | Black (standard PP) | Any RAL color — red, blue, green, yellow, gray |
+| **Cover color** | Black | Matching or contrasting color |
+| **Handle** | Black, gray | Custom color, custom design |
+| **Surface finish** | Smooth/matte | Textured, glossy |
+| **Embossing** | — | Your brand name molded into the case |
 
-## Get Started
+## Manufacturing Considerations
 
-[Request OEM Consultation](https://chengguangenergy.com/contact/)
+- **Color matching:** RAL or Pantone color reference required
+- **MOQ:** 2,000-5,000 units per color (color changeover requires production line cleaning)
+- **Lead time:** +2-3 weeks for first color batch
+- **UV stability:** All pigments tested for under-hood UV and heat exposure
+- **Recyclability:** Colored PP remains fully recyclable
+
+[Request Case Customization](https://chengguangenergy.com/contact/){ .md-button }
 
 ---
 
-*IATF 16949 certified | 18 production lines | 40,000 batteries/day | 70+ export countries*
+:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)
