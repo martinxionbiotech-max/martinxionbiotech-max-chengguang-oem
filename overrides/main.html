@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://chengguangenergy.com/#organization",
+    "name": "Chengguang Power Tech Co., Ltd.",
+    "url": "https://chengguangenergy.com/",
+    "logo": "https://data.chengguangenergy.com/assets/chengguang-logo.png",
+    "description": "IATF 16949 certified OEM automotive battery manufacturer since 2002. 200,000 m² factory, 18 production lines, 40,000 batteries/day, exporting to 70+ countries.",
+    "foundingDate": "2002",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Jinzhou",
+      "addressRegion": "Hebei",
+      "addressCountry": "CN"
+    },
+    "areaServed": "Worldwide",
+    "knowsAbout": [
+      "Automotive Battery Manufacturing",
+      "SLI Battery",
+      "AGM Battery",
+      "EFB Battery",
+      "JIS Battery Standard",
+      "DIN Battery Standard"
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://oem.chengguangenergy.com/#website",
+    "url": "https://oem.chengguangenergy.com/",
+    "name": "Chengguang OEM & Private Label Battery Manufacturing",
+    "description": "{{ config.site_description }}",
+    "publisher": { "@id": "https://chengguangenergy.com/#organization" }
+  }
+  </script>
+
+  {% set page_type = "Service" %}
+  {% if page and page.is_homepage %}
+    {% set page_type = "WebPage" %}
+  {% elif page and page.url and page.url.startswith('oem-faq/') %}
+    {% set page_type = "FAQPage" %}
+  {% endif %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{{ page_type }}",
+    "@id": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}#webpage",
+    "url": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}",
+    "name": "{{ page.title if page else config.site_name }}",
+    "serviceType": "Battery OEM & Private Label Manufacturing",
+    "provider": { "@id": "https://chengguangenergy.com/#organization" },
+    "isPartOf": { "@id": "https://oem.chengguangenergy.com/#website" },
+    "about": { "@id": "https://chengguangenergy.com/#organization" }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://oem.chengguangenergy.com/" },
+      { "@type": "ListItem", "position": 2, "name": "{{ page.title if page else config.site_name }}", "item": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}" }
+    ]
+  }
+  </script>
+{% endblock %}

@@ -4,6 +4,7 @@ site_url: https://oem.chengguangenergy.com/
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     primary: deep orange
     accent: amber
