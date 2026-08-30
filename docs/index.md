@@ -3,6 +3,70 @@ hide:
   - toc
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://oem.chengguangenergy.com/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does Chengguang OEM battery manufacturing include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We manufacture batteries under your brand, to your specifications, for your market — covering label, case color, terminal type, packaging, and electrical specification, plus sample production, quality control, and export documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long do OEM samples and mass production take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Samples typically take 3-4 weeks from specification sign-off, and mass production takes about 4-8 weeks after sample approval. Shipping adds roughly 2-6 weeks depending on destination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the minimum order quantities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard factory-label orders start around one 20ft container (roughly 400-600 batteries); custom label starts at 200-500 units per model; full custom orders start around 2,000-5,000 units per model."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Chengguang sell batteries under its own brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Chengguang is OEM-first: we manufacture under customer brands or factory-labeled products for distributors who sell under their own identity, rather than competing with our customers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which standards and markets can Chengguang support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We manufacture to JIS and DIN standards with BCI cross-reference support, and export to more than 70 countries with DG-compliant packaging and destination-country documentation."
+      }
+    }
+  ]
+}
+</script>
+
 # Build Your Own Automotive Battery Brand
 
 **Chengguang Power Tech** — IATF 16949 certified OEM battery manufacturer. We produce batteries under **your brand**, to **your specifications**, for **your market**.

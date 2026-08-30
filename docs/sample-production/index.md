@@ -2,6 +2,82 @@
 title: "Sample Production — Complete Guide"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://oem.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "OEM Process",
+      "item": "https://oem.chengguangenergy.com/oem-process/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Sample Production",
+      "item": "https://oem.chengguangenergy.com/sample-production/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do production samples take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sample production normally takes 3-4 weeks from specification sign-off."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many samples do I receive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You receive 5-20 branded production samples that match what mass production will deliver."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation accompanies the samples?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each sample comes with a Certificate of Analysis (CCA, capacity, voltage, visual inspection), MSDS, label and packaging confirmation, and shipping tracking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the sample cost refundable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sample costs for the battery and courier are credited against your first production order, so samples are effectively free once production is placed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I test on the samples?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CCA, capacity in your climate, vehicle fitment and terminal fit, label durability, packaging integrity after transport, and market acceptance with your customers."
+      }
+    }
+  ]
+}
+</script>
+
 # Sample Production — Complete Guide
 
 Sample production is the critical bridge between specification and mass production — your opportunity to test the product in your market before committing to a full container order.

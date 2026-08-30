@@ -1,3 +1,65 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://oem.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "OEM Process",
+      "item": "https://oem.chengguangenergy.com/oem-process/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the stages of the Chengguang OEM process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inquiry, specification matching, technical review, sample production, mass production, pre-shipment inspection, and shipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the total OEM timeline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inquiry takes about 1-3 days, specification 1-2 weeks, samples 3-4 weeks, production 4-8 weeks, and shipment 2-6 weeks depending on destination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are provided at shipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certificate of Analysis, MSDS, dangerous goods declaration, packing list, and other destination-specific documents."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is production traceable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Chengguang provides full batch traceability from raw material lots to finished product under IATF 16949."
+      }
+    }
+  ]
+}
+</script>
+
 # OEM Battery Manufacturing Process
 
 From initial inquiry to container shipment — the complete OEM journey with Chengguang. Every stage links to the specific Chengguang resource you need.
@@ -11,9 +73,9 @@ From initial inquiry to container shipment — the complete OEM journey with Che
 | **1. Inquiry** | 1-3 days | Describe your market need | [:material-domain: Contact Sales](https://chengguangenergy.com/contact/) |
 | **2. Specification** | 1-2 weeks | Select battery model & customizations | [:material-car-battery: Browse Models](https://data.chengguangenergy.com/battery-models/) |
 | **3. Technical Review** | 3-5 days | Confirm specs with your engineer | [:material-bookshelf: Technical Center](https://technical.chengguangenergy.com/) |
-| **4. Sample** | 3-4 weeks | Test samples in your market | [:material-test-tube: Sample Production](sample-production.md) |
+| **4. Sample** | 3-4 weeks | Test samples in your market | [:material-test-tube: Sample Production](../sample-production/) |
 | **5. Production** | 4-8 weeks | Monitor via weekly updates | [:material-factory: Factory Capabilities](https://chengguangenergy.com/about/) |
-| **6. Inspection** | 3-5 days | Approve pre-shipment QC | [:material-certificate: Quality Control](quality-control.md) |
+| **6. Inspection** | 3-5 days | Approve pre-shipment QC | [:material-certificate: Quality Control](../quality-control/) |
 | **7. Shipment** | 2-6 weeks | Clear customs, distribute | [:material-earth: Your Market](https://market.chengguangenergy.com/regions/) |
 
 ---
@@ -38,7 +100,7 @@ From initial inquiry to container shipment — the complete OEM journey with Che
 ### 4. Sample Production
 **Chengguang Deliverable:** 5-20 branded production samples with CoA
 **Timeline:** 3-4 weeks from specification sign-off
-**Key Resource:** [:material-test-tube: Sample Production Guide](sample-production.md)
+**Key Resource:** [:material-test-tube: Sample Production Guide](../sample-production/)
 
 ### 5. Mass Production
 **Chengguang Deliverable:** Full production batch with IATF 16949 traceability

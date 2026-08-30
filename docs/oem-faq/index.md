@@ -2,6 +2,76 @@
 title: "OEM Battery Manufacturing FAQ"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://oem.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "FAQ",
+      "item": "https://oem.chengguangenergy.com/oem-faq/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum order quantity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard factory-label orders start around one 20ft container (roughly 400-600 batteries); custom label only is 200-500 per model; label plus packaging is 500-1,000 per model; full custom is 2,000-5,000 per model. LCL is available for trial orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does OEM production take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Samples take 3-4 weeks, mass production takes 4-8 weeks after sample approval, and shipping adds 2-6 weeks depending on destination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I mix battery models in one container?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Mixing SLI, heavy duty, JIS, and DIN models in one shipment is standard practice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications does Chengguang hold?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IATF 16949 (automotive quality), ISO 9001 (quality management), ISO 45001 (health and safety), and CE marking for EU compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment terms are offered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "T/T with 30% deposit and 70% before shipment is standard; L/C at sight is available for established relationships."
+      }
+    }
+  ]
+}
+</script>
+
 # OEM Battery Manufacturing FAQ
 
 ## General

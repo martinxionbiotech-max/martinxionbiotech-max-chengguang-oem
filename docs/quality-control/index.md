@@ -2,6 +2,74 @@
 title: "Quality Control — Full System"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://oem.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "OEM Process",
+      "item": "https://oem.chengguangenergy.com/oem-process/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Quality Control",
+      "item": "https://oem.chengguangenergy.com/quality-control/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What quality standard does Chengguang follow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chengguang's quality system is built on IATF 16949:2016, the automotive-specific quality management standard, and is audited annually by an independent certification body."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is every battery tested?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Final testing is 100% for CCA, open-circuit voltage, leakage, visual defects, and weight, with additional in-process gates from grid casting through formation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What pre-shipment documentation is included?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every shipment includes a Certificate of Analysis, MSDS (UN 2794 / Class 8), batch traceability report, packing list, and Certificate of Origin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I arrange third-party inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. SGS, Bureau Veritas, Intertek, or your nominated agency can perform pre-shipment verification at the factory on request."
+      }
+    }
+  ]
+}
+</script>
+
 # Quality Control — Full System
 
 Chengguang's quality control system is built on IATF 16949:2016 — the international quality management standard specific to automotive manufacturing. It is not a paper certification. It is audited annually by an independent certification body and embedded in every production step.
