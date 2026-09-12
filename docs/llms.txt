@@ -9,3 +9,12 @@ Build your own automotive battery brand with Chengguang Power Tech — IATF 1694
 - Sample Production: https://oem.chengguangenergy.com/sample-production/
 - Quality Control: https://oem.chengguangenergy.com/quality-control/
 - OEM FAQ: https://oem.chengguangenergy.com/oem-faq/
+
+## Ecosystem
+
+- [Main Site](https://chengguangenergy.com/): Factory, capabilities, certifications, contact
+- [Battery Database](https://data.chengguangenergy.com/): Models, specifications, cross-reference
+- [Technical Center](https://technical.chengguangenergy.com/): Technology, engineering, testing
+- [OEM Manufacturing](https://oem.chengguangenergy.com/): Private label, custom, OEM process — **this site**
+- [Market Intelligence](https://market.chengguangenergy.com/): Regional demand and market trends
+- [Battery Tools](https://tool.chengguangenergy.com/): Finders, calculators, cross-reference tools
