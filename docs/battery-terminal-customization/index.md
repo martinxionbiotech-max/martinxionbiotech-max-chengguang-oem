@@ -94,7 +94,3 @@ Terminals are the critical interface between the battery and the vehicle. Wrong 
 | **Custom** | Per specification | Unique vehicle requirements |
 
 [Request Terminal Specs](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

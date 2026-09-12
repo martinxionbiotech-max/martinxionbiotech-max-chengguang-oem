@@ -95,7 +95,3 @@ Full custom battery manufacturing — when standard models don't meet your marke
 5. **Production:** Full production after prototype approval
 
 [Request Custom Engineering](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

@@ -97,7 +97,3 @@ Private label is the fastest path to selling batteries under your own brand. You
 Chengguang currently manufactures under **50+ international brand labels** for distributors and importers in Africa, the Middle East, Southeast Asia, South America, and Oceania.
 
 [Start Your Brand](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

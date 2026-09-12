@@ -100,7 +100,3 @@ Every shipment includes:
 Available on request: **SGS, Bureau Veritas, Intertek**, or your nominated inspection agency. Third-party inspectors are welcome at our factory for pre-shipment verification.
 
 [View Certifications](https://chengguangenergy.com/quality-certifications/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

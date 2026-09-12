@@ -93,7 +93,3 @@ The battery case is the most visible branded component. Chengguang offers case c
 - **Recyclability:** Colored PP remains fully recyclable
 
 [Request Case Customization](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

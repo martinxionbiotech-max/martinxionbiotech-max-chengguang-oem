@@ -113,7 +113,3 @@ Sample costs (battery + courier) are **credited against your first production or
 6. **Market acceptance** — show to your customers for feedback
 
 [Request Samples](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

@@ -101,7 +101,3 @@ Your battery label is your brand's most visible asset — seen every time a cust
 All Chengguang labels use **UV-resistant lamination** with **chemical-resistant adhesive** rated for under-hood temperatures (-40degC to +100degC) and acid exposure. Labels will not peel, fade, or delaminate during the battery's service life.
 
 [Submit Label Design](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

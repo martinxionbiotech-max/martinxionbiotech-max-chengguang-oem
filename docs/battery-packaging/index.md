@@ -97,7 +97,3 @@ Packaging is your brand's first physical impression. Chengguang offers fully cus
 All Chengguang export packaging is **DG-compliant** for UN 2794 (Batteries, wet, filled with acid, Class 8). Packaging meets IATA/IMDG/ADR dangerous goods transport requirements. Palletized with acid-proof lining and spill containment.
 
 [Discuss Packaging](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)

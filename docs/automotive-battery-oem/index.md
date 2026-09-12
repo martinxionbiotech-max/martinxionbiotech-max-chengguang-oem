@@ -94,7 +94,3 @@ Buying factory-labeled batteries vs. OEM with your brand:
 4. We manufacture, inspect, and ship
 
 [Start OEM Inquiry](https://chengguangenergy.com/contact/){ .md-button }
-
----
-
-:material-family-tree: Part of the **[Chengguang Battery Knowledge Ecosystem](https://chengguangenergy.com/)** — [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [Market Intelligence](https://market.chengguangenergy.com/)
