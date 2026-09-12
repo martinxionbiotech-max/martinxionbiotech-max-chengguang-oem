@@ -65,3 +65,9 @@ Typically one 20ft container, because lead-acid freight economics collapse at a 
 ### Which standards are available for AGM?
 
 JIS, DIN/EN and BCI group sizes, confirmed per market.
+
+## Related resources
+
+- [How AGM batteries work](https://technical.chengguangenergy.com/battery-technology/agm/) — construction, charge acceptance and cycle life.
+- [AGM vs EFB vs SLI](https://technical.chengguangenergy.com/battery-technology/) — which technology a vehicle needs.
+- [Battery model database](https://data.chengguangenergy.com/battery-models/) — reference specifications.

@@ -73,3 +73,9 @@ Roughly 600–800 units once pallets, packaging and stacking limits are accounte
 ### Does lead-acid production have a seasonal cycle?
 
 No. Unlike agricultural products, lead-acid batteries are produced year-round, so lead time is stable rather than seasonal.
+
+## Related resources
+
+- [Battery model database](https://data.chengguangenergy.com/battery-models/) — plan the model mix for a container.
+- [Group size chart](https://data.chengguangenergy.com/guides/battery-group-explained/) — case sizes that set the pallet plan.
+- [Battery OEM shipping](battery-oem-shipping/index.md) — how the loaded container is classified and documented.

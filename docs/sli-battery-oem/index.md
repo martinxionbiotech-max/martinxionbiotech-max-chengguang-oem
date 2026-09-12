@@ -65,3 +65,9 @@ Typically one 20ft container (~600–800 units), because freight cost per unit c
 ### Which standards are available for SLI?
 
 JIS, DIN/EN, BCI and regional (AS/SA) fitments, confirmed per market.
+
+## Related resources
+
+- [What is an SLI battery](https://technical.chengguangenergy.com/battery-technology/sli/) — construction and duty.
+- [Battery model database](https://data.chengguangenergy.com/battery-models/) — JIS and DIN SLI references.
+- [Battery standards guide](https://data.chengguangenergy.com/standards/) — JIS, DIN and BCI naming.

@@ -65,3 +65,9 @@ Typically one 20ft container; the exact load depends on group size and pallet co
 ### Which markets use EFB?
 
 Mainly European and other markets with widespread entry-level start-stop vehicles.
+
+## Related resources
+
+- [How EFB batteries work](https://technical.chengguangenergy.com/battery-technology/efb/) — enhanced flooded construction and cycling.
+- [AGM vs EFB vs SLI](https://technical.chengguangenergy.com/battery-technology/) — choosing between technologies.
+- [Battery model database](https://data.chengguangenergy.com/battery-models/) — reference specifications.

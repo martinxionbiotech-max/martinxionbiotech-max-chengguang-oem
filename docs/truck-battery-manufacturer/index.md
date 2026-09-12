@@ -68,3 +68,9 @@ Yes. Heavy-duty batteries are available for OEM and private-label programs, with
 ### Which standards do you cover for truck batteries?
 
 JIS N-series, DIN heavy (DIN88/DIN100) and BCI Group 31 / 4D / 8D. These are not interchangeable — confirm the standard family and case size first.
+
+## Related resources
+
+- [Heavy-duty battery technology](https://technical.chengguangenergy.com/battery-technology/heavy-duty/) — why trucks need high CCA and vibration resistance.
+- [Battery model database](https://data.chengguangenergy.com/battery-models/) — JIS N-series and DIN heavy references.
+- [Market intelligence by region](https://market.chengguangenergy.com/regions/) — where heavy-duty demand sits.

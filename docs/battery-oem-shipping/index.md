@@ -70,3 +70,9 @@ FOB, CFR or CIF, as agreed in writing. Risk transfers at the point defined by th
 ### How long does shipping take?
 
 Production lead time is 30–45 days; add 3–5 weeks for ocean freight and clearance.
+
+## Related resources
+
+- [Lead-acid dangerous-goods classification](https://technical.chengguangenergy.com/standards/) — UN 2794 and UN 2800.
+- [Battery OEM MOQ](battery-oem-moq/index.md) — how container loads set the minimum order.
+- [Battery OEM testing](battery-oem-testing/index.md) — pre-shipment testing and documentation.

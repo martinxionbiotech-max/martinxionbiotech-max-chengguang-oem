@@ -72,3 +72,9 @@ Because JIS tests at −15 °C and EN/SAE at −18 °C, so a CCA number without 
 ### Can third-party inspection be arranged?
 
 Yes — SGS, Bureau Veritas, Intertek or your nominated inspection agency are welcome at the factory for pre-shipment verification.
+
+## Related resources
+
+- [How CCA is tested](https://technical.chengguangenergy.com/battery-testing/cca/) — the test method behind the cold-cranking number.
+- [C20 capacity testing](https://technical.chengguangenergy.com/battery-testing/c20-capacity/) — how stored energy is measured.
+- [Battery quality control](quality-control/index.md) — the full four-layer QC framework.

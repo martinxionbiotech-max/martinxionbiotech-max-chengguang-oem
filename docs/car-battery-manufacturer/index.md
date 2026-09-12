@@ -71,3 +71,9 @@ SLI, AGM and EFB — covering standard vehicles, start-stop systems and high-ele
 ### How long does a car battery OEM program take?
 
 About 60–90 days door-to-door: 10–20 days sampling, 30–45 days production, then 3–5 weeks freight and clearance.
+
+## Related resources
+
+- [Battery model database](https://data.chengguangenergy.com/battery-models/) — reference specifications for JIS and DIN car batteries.
+- [SLI, AGM and EFB explained](https://technical.chengguangenergy.com/battery-technology/) — how the three car-battery technologies differ.
+- [Battery standards guide](https://data.chengguangenergy.com/standards/) — JIS, DIN and BCI naming.
