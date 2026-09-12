@@ -31,6 +31,12 @@ nav:
       - private-label-batteries/index.md
       - battery-odm/index.md
       - custom-battery/index.md
+  - By Battery Type:
+      - car-battery-manufacturer/index.md
+      - truck-battery-manufacturer/index.md
+      - agm-battery-oem/index.md
+      - efb-battery-oem/index.md
+      - sli-battery-oem/index.md
   - Customization:
       - battery-brand/index.md
       - battery-packaging/index.md
@@ -42,5 +48,8 @@ nav:
       - oem-process/index.md
       - sample-production/index.md
       - quality-control/index.md
+      - battery-oem-moq/index.md
+      - battery-oem-testing/index.md
+      - battery-oem-shipping/index.md
   - FAQ:
       - oem-faq/index.md
